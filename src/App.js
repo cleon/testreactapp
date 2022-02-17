@@ -30,7 +30,7 @@ function App({ flags, ldClient }) {
         <h2>SETUP:<br />
           1. In LD, create a string flag with at least two variations.<br />
           2. Create a .env.local file with your client side ID.<br />
-          3. npm install<br />
+          3. npm install<br/>
           4. npm run start<br />
         </h2>
         <h2>Steps to re-create:<p />
